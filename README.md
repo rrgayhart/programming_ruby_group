@@ -13,12 +13,26 @@ Part 1 (pg3 to pg208)
 7. Regular Expressions
 8. More About Methods
 9. Expressions
-10. Exceptions, catch, and throw
+10. Exceptions, Catch, and Throw
 11. Basic Input and Output
 12. Fibers, Threads, and Processes
 13. Unit Testing
 14. When Trouble Strikes!
 
 Part 2 (pg209 to pg296)
+15. Ruby and Its World
+16. Namespaces, Source Files, and Distribution
+17. Character Encoding
+18. Interactive Ruby Shell
+19. Documenting Ruby
+20. Ruby and the Web
+21. Ruby and Microsoft Windows
 
 Part 3 (pg297 to pg416)
+22. The Ruby Language
+23. Duck Typing
+24. Metaprogramming
+25. Reflection, ObjectSpace, and Distributed Ruby
+26. Locking Ruby in the Safe
+
+Part 4 is a reference library and therefor will not be included in the group
