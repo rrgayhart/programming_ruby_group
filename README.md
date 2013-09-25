@@ -5,26 +5,36 @@ Read to Chapter 4 by Monday!
 
 A randomly generate list of assignments is as follows
 
-*These two classmates will write a short summary of: 1 Getting Started
- ["Romeeka", "Nikhil"]
-*These two classmates will post a ruby example of 1 Getting Started: 
- ["Katrina", "Luke"]
-*These two classmates will write a short summary of: 2 Ruby.new 
- ["Nikhil", "Luke"]
-*These two classmates will post a ruby example of 2 Ruby.new: 
- ["Romeeka", "Billy"]
-*These two classmates will write a short summary of: 3 Classes, Objects, and Variables 
- ["Persa", "Bryana"]
-*These two classmates will post a ruby example of 3 Classes, Objects, and Variables: 
- ["Billy", "Persa"]
-*These two classmates will write a short summary of: 4 Containers, Blocks, and Iterators 
- ["Nikhil", "Adam"]
-*These two classmates will post a ruby example of 4 Containers, Blocks, and Iterators: 
- ["Billy", "Jonah"]
-*These two classmates will write a short summary of: 5 Sharing Functionality: Inheritance, Modules, and Mixins 
- ["Bryana", "Persa"]
-*These two classmates will post a ruby example of 5 Sharing Functionality: Inheritance, Modules, and Mixins: 
- ["Katrina", "Adam"]
+Short summary of: 1 Getting Started 
+ ["Katrina", "Nikhil"]
+
+Post a ruby example of 1 Getting Started: 
+ ["Tyler", "Luke"]
+
+Short summary of: 2 Ruby.new 
+ ["George", "Romeeka"]
+
+Post a ruby example of 2 Ruby.new: 
+ ["Tyler", "Romeeka"]
+
+Short summary of: 3 Classes, Objects, and Variables 
+ ["George", "Bryana"]
+
+Post a ruby example of 3 Classes, Objects, and Variables: 
+ ["Bryana", "Luke"]
+
+Short summary of: 4 Containers, Blocks, and Iterators 
+ ["Nikhil", "Billy"]
+
+Post a ruby example of 4 Containers, Blocks, and Iterators: 
+ ["Jonah", "Nikhil"]
+
+Short summary of: 5 Sharing Functionality: Inheritance, Modules, and Mixins 
+ ["Bryana", "Katrina"]
+ 
+Post a ruby example of 5 Sharing Functionality: Inheritance, Modules, and Mixins: 
+ ["Luke", "Persa"]
+
 
 ----------------------------
 
