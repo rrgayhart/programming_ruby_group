@@ -1,39 +1,52 @@
+#Book Club:  Programming Ruby Group Style
+
 This is a repository set up for the Gschool[1] reading group to discuss and code through Programming Ruby!
 
-###Read to Chapter 4 by Monday!
-
+Read to Chapter 4 by Monday!
+----------------------------
 A randomly generate list of assignments is as follows
 
-Short summary of: 1 Getting Started 
- ["Katrina", "Nikhil"]
+### 1. Short summary of: 1 Getting Started ([Katrina](https://github.com/MappingKat) & [Nikhil](https://github.com/nikhiltaneja))
 
-Post a ruby example of 1 Getting Started: 
- ["Tyler", "Luke"]
+####Post a ruby example of 1 Getting Started: ([Tyler](https://github.com/TylerLong86) & [Luke](https://github.com/LukeMartinez))
 
-Short summary of: 2 Ruby.new 
- ["George", "Romeeka"]
+### 2. Short summary of: 2 Ruby.new ([George](https://github.com/egogrb) & [Romeeka](https://github.com/rrgayhart))
 
-Post a ruby example of 2 Ruby.new: 
- ["Tyler", "Romeeka"]
+####Post a ruby example of 2 Ruby.new ([Tyler](https://github.com/TylerLong86) & [Romeeka](https://github.com/rrgayhart))
 
-Short summary of: 3 Classes, Objects, and Variables 
- ["George", "Bryana"]
+### 3. Short summary of: 3 Classes, Objects, and Variables ([George](https://github.com/egogrb) &[Bryana](https://github.com/BryanaKnight))
 
-Post a ruby example of 3 Classes, Objects, and Variables: 
- ["Bryana", "Luke"]
+####Post a ruby example of 3 Classes, Objects, and Variables:  ([Bryana](https://github.com/BryanaKnight) & [Luke](https://github.com/LukeMartinez))
 
-Short summary of: 4 Containers, Blocks, and Iterators 
- ["Nikhil", "Billy"]
+### 4. Short summary of: 4 Containers, Blocks, and Iterators ([Nikhil](https://github.com/nikhiltaneja) & [Billy](https://github.com/billy22g))
 
-Post a ruby example of 4 Containers, Blocks, and Iterators: 
- ["Jonah", "Nikhil"]
+####Post a ruby example of 4 Containers, Blocks, and Iterators: ([Jonah](https://github.com/jonah) & [Nikhil](https://github.com/nikhiltaneja))
 
-Short summary of: 5 Sharing Functionality: Inheritance, Modules, and Mixins 
- ["Bryana", "Katrina"]
+### 5. Short summary of: 5 Sharing Functionality: Inheritance, Modules, and Mixins  ([Bryana](https://github.com/BryanaKnight) & [Katrina](https://github.com/MappingKat))
  
-Post a ruby example of 5 Sharing Functionality: Inheritance, Modules, and Mixins: 
- ["Luke", "Persa"]
+####Post a ruby example of 5 Sharing Functionality: Inheritance, Modules, and Mixins:  ([Luke](https://github.com/LukeMartinez) & [Persa](https://github.com/pzula))
 
+----------------------------
+The group list is:
+"Romeeka","George","Katrina","Luke","Nikhil","Jonah","Persa","Billy","Bryana","Adam","Tyler"
+
+We are responsible for reading Part 1 in the next three weeks
+
+#Part 1 (pg3 to pg208)
+1. Getting Started 
+2. Ruby.new
+3. Classes, Objects, and Variables 
+4. Containers, Blocks, and Iterators 
+5. Sharing Functionality: Inheritance, Modules, and Mixins
+6. Standard Types 
+7. Regular Expressions 
+8. More About Methods 
+9. Expressions 
+10. Exceptions, Catch, and Throw 
+11. Basic Input and Output 
+12. Fibers, Threads, and Processes 
+13. Unit Testing 
+14. When Trouble Strikes!
 
 
 ### Instructions for contributing
@@ -75,10 +88,4 @@ Further Instructions At:
 
 ----------------------------
 
-The group list is:
-"Romeeka","George","Katrina","Luke","Nikhil","Jonah","Persa","Billy","Bryana","Adam","Tyler"
 
-We are responsible for reading Part 1 in the next three weeks
-
-Part 1 (pg3 to pg208)
-1. Getting Started 2. Ruby.new 3. Classes, Objects, and Variables 4. Containers, Blocks, and Iterators 5. Sharing Functionality: Inheritance, Modules, and Mixins 6. Standard Types 7. Regular Expressions 8. More About Methods 9. Expressions 10. Exceptions, Catch, and Throw 11. Basic Input and Output 12. Fibers, Threads, and Processes 13. Unit Testing 14. When Trouble Strikes!
