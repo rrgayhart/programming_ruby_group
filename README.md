@@ -5,26 +5,26 @@ Read to Chapter 4 by Monday!
 
 A randomly generate list of assignments is as follows
 
-These two classmates will write a short summary of: 1 Getting Started 
+*These two classmates will write a short summary of: 1 Getting Started
  ["Romeeka", "Nikhil"]
-These two classmates will post a ruby example of 1 Getting Started: 
- ["Billy", "Luke"]
-These two classmates will write a short summary of: 2 Ruby.new 
+*These two classmates will post a ruby example of 1 Getting Started: 
+ ["Katrina", "Luke"]
+*These two classmates will write a short summary of: 2 Ruby.new 
  ["Nikhil", "Luke"]
-These two classmates will post a ruby example of 2 Ruby.new: 
- ["Romeeka", "Luke"]
-These two classmates will write a short summary of: 3 Classes, Objects, and Variables 
+*These two classmates will post a ruby example of 2 Ruby.new: 
+ ["Romeeka", "Billy"]
+*These two classmates will write a short summary of: 3 Classes, Objects, and Variables 
  ["Persa", "Bryana"]
-These two classmates will post a ruby example of 3 Classes, Objects, and Variables: 
+*These two classmates will post a ruby example of 3 Classes, Objects, and Variables: 
  ["Billy", "Persa"]
-These two classmates will write a short summary of: 4 Containers, Blocks, and Iterators 
+*These two classmates will write a short summary of: 4 Containers, Blocks, and Iterators 
  ["Nikhil", "Adam"]
-These two classmates will post a ruby example of 4 Containers, Blocks, and Iterators: 
+*These two classmates will post a ruby example of 4 Containers, Blocks, and Iterators: 
  ["Billy", "Jonah"]
-These two classmates will write a short summary of: 5 Sharing Functionality: Inheritance, Modules, and Mixins 
+*These two classmates will write a short summary of: 5 Sharing Functionality: Inheritance, Modules, and Mixins 
  ["Bryana", "Persa"]
-These two classmates will post a ruby example of 5 Sharing Functionality: Inheritance, Modules, and Mixins: 
- ["Billy", "Adam"]
+*These two classmates will post a ruby example of 5 Sharing Functionality: Inheritance, Modules, and Mixins: 
+ ["Katrina", "Adam"]
 
 ----------------------------
 
