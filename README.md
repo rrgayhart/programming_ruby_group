@@ -1,7 +1,6 @@
 This is a repository set up for the Gschool[1] reading group to discuss and code through Programming Ruby!
 
-Read to Chapter 4 by Monday!
-----------------------------
+###Read to Chapter 4 by Monday!
 
 A randomly generate list of assignments is as follows
 
@@ -34,6 +33,44 @@ Short summary of: 5 Sharing Functionality: Inheritance, Modules, and Mixins
  
 Post a ruby example of 5 Sharing Functionality: Inheritance, Modules, and Mixins: 
  ["Luke", "Persa"]
+
+
+
+### Instructions for contributing
+<p></p>
+
+*  To grab a complete copy of the repository (when you start)
+
+
+```ruby
+git clone <URL>
+```
+
+* If you already have the local repository - Fetch -- to grab all
+
+
+```ruby
+git fetch <REMOTENAME>
+```
+(by default the REMOTENAME will be origin)
+
+* Similar to Fetch, you can call pull 
+a specific branch to merge into your local branch
+
+```ruby
+git pull <REMOTENAME> <BRANCHNAME>
+```
+(by default the REMOTENAME will be origin)
+
+*  If you run into a conflict while pulling -  you can abort
+
+```ruby
+git merge --abort
+```
+
+Further Instructions At: 
+<http://git-scm.com/docs/user-manual.html#sharing-development>
+<https://help.github.com/articles/fetching-a-remote>
 
 
 ----------------------------
