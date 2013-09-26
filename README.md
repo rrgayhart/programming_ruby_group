@@ -6,7 +6,7 @@ Read to Chapter 4 by Monday!
 ----------------------------
 A randomly generate list of assignments is as follows
 
-### 1. Short summary of: 1 Getting Started ([Katrina](https://github.com/MappingKat) & [Nikhil](https://github.com/nikhiltaneja))
+### 1. Short summary of: 1 Getting Started ([Persa](https://github.com/pzula) & [Romeeka](https://github.com/rrgayhart))
 
 ####Post a ruby example of 1 Getting Started: ([Tyler](https://github.com/TylerLong86) & [Luke](https://github.com/LukeMartinez))
 
@@ -21,6 +21,8 @@ A randomly generate list of assignments is as follows
 ### 4. Short summary of: 4 Containers, Blocks, and Iterators ([Nikhil](https://github.com/nikhiltaneja) & [Billy](https://github.com/billy22g))
 
 ####Post a ruby example of 4 Containers, Blocks, and Iterators: ([Jonah](https://github.com/jonah) & [Nikhil](https://github.com/nikhiltaneja))
+
+!!!CHAPTER 5 IS OPTIONAL FOR MONDAY!!!
 
 ### 5. Short summary of: 5 Sharing Functionality: Inheritance, Modules, and Mixins  ([Bryana](https://github.com/BryanaKnight) & [Katrina](https://github.com/MappingKat))
  
