@@ -59,16 +59,7 @@ We are responsible for reading Part 1 in the next three weeks
 git clone <URL>
 ```
 
-* If you already have the local repository - Fetch -- to grab all
-
-
-```ruby
-git fetch <REMOTENAME>
-```
-(by default the REMOTENAME will be origin)
-
-* Similar to Fetch, you can call pull 
-a specific branch to merge into your local branch
+* If you already have the local repository -- pull to update
 
 ```ruby
 git pull <REMOTENAME> <BRANCHNAME>
@@ -80,6 +71,8 @@ git pull <REMOTENAME> <BRANCHNAME>
 ```ruby
 git merge --abort
 ```
+
+*  Prior to pushing any update to the repository, remember to pull the data to ensure there are no conflicts
 
 Further Instructions At: 
 <http://git-scm.com/docs/user-manual.html#sharing-development>
