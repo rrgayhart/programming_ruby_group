@@ -1,0 +1,3 @@
+### Chapter 1 Summary
+
+Basically, Chapter 1 helps you get your system up and running, explains using `irb`, and explains how to run ruby programs. It also briefly overviews ri and RDoc, but I found that it would not return to me the documentation that I wanted to see in my terminal, so I gave up on that for now and am using' Pry's documentation from the terminal instead. Perhaps we can learn about how to use documentation in the terminal in class someday? (nudge nudge, instructors)
