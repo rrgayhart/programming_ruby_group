@@ -2,6 +2,8 @@
 
 This is a repository set up for the Gschool[1] reading group to discuss and code through Programming Ruby!
 
+##### Students can complete one summary/example with both adding to it, or each submit a seperate summary. Remember to git pull before pushing your changes! (see instructions on bottom of readme)
+
 Read to Chapter 4 by Monday!
 ----------------------------
 A randomly generate list of assignments is as follows
