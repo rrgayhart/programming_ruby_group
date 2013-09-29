@@ -61,16 +61,21 @@ begins to develop an overarching explaination of Ruby from the top down, but rea
 		World
 	
 =======
-		
-Additional Notes
+##### -George		
 
-Local Variables start with lowercase letters or _
-Instance Variables start with @
-Global Variables start with $
-Class Variables start with @@
-Class Name starts with a capital letter
-Constant Names are in all caps
+####Additional Notes
 
-Arrays and Hashes are indexed collections
-"It’s more efficient to access array elements, but hashes provide more flexibility"
+	+Local Variables start with lowercase letters or _
+	+Instance Variables start with @
+	+Global Variables start with $
+	+Class Variables start with @@
+	+Class Name starts with a capital letter
+	+Constant Names are in all caps
+
+	+Arrays and Hashes are indexed collections
+	+"[An array is a] more efficient to access array elements, but hashes provide more flexibility"
+	
+#####See the chapter 2 code examples for further experimentation!
+
+##### -Meeka
 
