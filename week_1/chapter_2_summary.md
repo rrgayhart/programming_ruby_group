@@ -114,7 +114,40 @@ begins to develop an overarching explaination of Ruby from the top down, but rea
 	
 	-discussed in more detail in chapter 7
 
-	###Blocks and Iterators
+
+###Blocks and Iterators
+	
+	-*Code Blocks* are 'chunks' of code you can associate with running methods, like they were parameters
+		+code blocks is just the code between braces or *do* and *end*
+		+code blocks can implement callbacks
+		+if the metod has parameters, the code block comes after the parameters
+		+e.g. method_name ("parameter_1", "parameter_2", etc) {code block}
+
+	-call upon the code block by using the *yield* command.
+	I can only explain this with the book's example:
+
+	def call_block   
+	  puts "Start of method"   
+	  yield         
+	  yield         
+	  puts "End of method" 
+	end          
+
+	call_block { puts "In the block" }
+
+	Produces:
+
+	Start of method 
+	In the block  
+	In the block  
+	End of method
+
+	-Code blocks are used to implement *iterators*
+
+	-*Iterators* are methods that return successive elements from a collection
+		+put arguments for these iterators within vertical bars |argument, parameter|
+
+
 
 
 
@@ -142,6 +175,7 @@ begins to develop an overarching explaination of Ruby from the top down, but rea
 		\w matches characters appearing in typical words
 		\. matches *almost* any character
 
+	ARGF is an I/O object that acts like every object in a given file whose names are put on the command line.
 
 	
 =======
