@@ -20,3 +20,43 @@ begins to develop an overarching explaination of Ruby from the top down, but rea
 		+e.g. 	song1 = Song.new("Ruby Tuesday") 
 				song2 = Song.new("Enveloped in Python")
 		+These two instances, while being of the same class, can have different, unique characterisitcs (and hold different oject IDs)
+
+	-an *instance method* can be created within the context of the class but can be called upon from outside the class
+
+
+### Some Basic Ruby
+
+	-Ruby syntax is clean 
+		+meaning you don't need to add marking to the beginning or end of statements as long as you put each statement on a separate line.
+		+comments start with a # and wont render the rest of the line into code
+		+indentation has no effect on the code, the 2 spaces indent is standard practice for readability however
+		+parenthasis are optional, again, sometimes they are added for readability
+
+	-Strings 
+		+single quotes '' can hold string text, but no modifying code within the quotes
+		+double quotes "" can have string, substitutions, and interpolations (designated by a #{interpolation here})
+
+	-The last expression within a method is returned
+
+	-Naming
+		+local variables, method parameters, and method names all start with a lowercase letter
+		+Global variables start with a $ (***JEFF SAYS DON'T USE THESE!***)
+		+instance variables begin with @
+		+Class variables start with @@ 
+		+Class names, module names, and constants must start with an uppercase letter
+		+after the first character, a name can have any combination of letters, numbers and underscores. (except a number may not follow an @ though)
+		+method names may end with ?, !, and =
+		
+
+
+
+
+
+
+###Random Code Learned
+	.abs is a method called on a number value which returns the absolute value
+
+	/n calls for a new line. e.g puts "Hello /nWorld" Produces
+		Hello
+		World
+	
