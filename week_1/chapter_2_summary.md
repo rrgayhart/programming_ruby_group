@@ -19,8 +19,7 @@ begins to develop an overarching explaination of Ruby from the top down, but rea
 		+there are other constructors that will be discussed later
 		+e.g. 	song1 = Song.new("Ruby Tuesday") 
 				song2 = Song.new("Enveloped in Python")
-		+These two instances, while being of the same class, can have different, unique characterisitcs (and hold different oject IDs)
-<<<<<<< HEAD
+		+These two instances, while being of the same class, can have different, unique characterisitcs (and hold different object IDs)
 
 	-an *instance method* can be created within the context of the class but can be called upon from outside the class
 
@@ -74,4 +73,4 @@ Constant Names are in all caps
 
 Arrays and Hashes are indexed collections
 "It’s more efficient to access array elements, but hashes provide more flexibility"
->>>>>>> 53356b805c1f92a085a26c86e9e98e35c8507725
+
