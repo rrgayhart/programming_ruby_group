@@ -20,3 +20,15 @@ begins to develop an overarching explaination of Ruby from the top down, but rea
 		+e.g. 	song1 = Song.new("Ruby Tuesday") 
 				song2 = Song.new("Enveloped in Python")
 		+These two instances, while being of the same class, can have different, unique characterisitcs (and hold different oject IDs)
+		
+Additional Notes
+
+Local Variables start with lowercase letters or _
+Instance Variables start with @
+Global Variables start with $
+Class Variables start with @@
+Class Name starts with a capital letter
+Constant Names are in all caps
+
+Arrays and Hashes are indexed collections
+"It’s more efficient to access array elements, but hashes provide more flexibility"
