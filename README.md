@@ -13,9 +13,9 @@ This is a repository set up for the Gschool[1] reading group to discuss and code
   + What was confusing - what needs more clarity
 
 
-##### We have created a codeplay area where anyone can contribute code that they enjoyed playing with while reading
+##### We have created a codeplay area where anyone can contribute code that they enjoyed playing with while reading. This is entirely optional!
 
-Official assignments per chapter
+####Official Chapter Assignments
 
       Chapter 5 Bryana and Tyler
       
