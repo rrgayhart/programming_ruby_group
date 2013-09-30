@@ -1,4 +1,4 @@
-#Book Club:  Programming Ruby Group Style
+#Book Club:  Programming Ruby
 
 This is a repository set up for the Gschool[1] reading group to discuss and code through Programming Ruby!
 
