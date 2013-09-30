@@ -18,9 +18,6 @@ chapters_part_one = { 1 => "Getting Started", 2 => "Ruby.new", 3 => "Classes, Ob
   puts "Short summary of: #{chapter} \n #{randos}"
   randos = RandomClassmates.new.shuffle_classmates
   puts "Post a ruby example of #{chapter}: \n #{randos}"
-  if chapter.include? "5"
-    break
-  end
 end
 
 
