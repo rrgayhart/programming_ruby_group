@@ -2,33 +2,30 @@
 
 This is a repository set up for the Gschool[1] reading group to discuss and code through Programming Ruby!
 
-##### Students can complete one summary/example with both adding to it, or each submit a seperate summary. Remember to git pull before pushing your changes! (see instructions on bottom of readme)
+##### For each summary the assigned students will provide a framework - any other classmates can add tips and tricks or questions to any other chapter for discussion on Monday.
 
-Read to Chapter 4 by Monday!
-----------------------------
-A randomly generate list of assignments is as follows
++ Five to Ten Bullets Points of Summary
 
-### 1. Short summary of: 1 Getting Started ([Persa](https://github.com/pzula) & [Romeeka](https://github.com/rrgayhart))
++ Tips and Tricks
+  + Anything we enjoyed... extra materials that can be used… etc
 
-####Post a ruby example of 1 Getting Started: ([Tyler](https://github.com/TylerLong86) & [Luke](https://github.com/LukeMartinez))
++ Questions
+  + What was confusing - what needs more clarity
 
-### 2. Short summary of: 2 Ruby.new ([George](https://github.com/egogrb) & [Romeeka](https://github.com/rrgayhart))
 
-####Post a ruby example of 2 Ruby.new ([Tyler](https://github.com/TylerLong86) & [Romeeka](https://github.com/rrgayhart))
+##### We have created a codeplay area where anyone can contribute code that they enjoyed playing with while reading
 
-### 3. Short summary of: 3 Classes, Objects, and Variables ([George](https://github.com/egogrb) &[Bryana](https://github.com/BryanaKnight))
+Official assignments per chapter
 
-####Post a ruby example of 3 Classes, Objects, and Variables:  ([Bryana](https://github.com/BryanaKnight) & [Luke](https://github.com/LukeMartinez))
-
-### 4. Short summary of: 4 Containers, Blocks, and Iterators ([Nikhil](https://github.com/nikhiltaneja) & [Billy](https://github.com/billy22g))
-
-####Post a ruby example of 4 Containers, Blocks, and Iterators: ([Jonah](https://github.com/jonah) & [Nikhil](https://github.com/nikhiltaneja))
-
-!!!CHAPTER 5 IS OPTIONAL FOR MONDAY!!!
-
-### 5. Short summary of: 5 Sharing Functionality: Inheritance, Modules, and Mixins  ([Bryana](https://github.com/BryanaKnight) & [Katrina](https://github.com/MappingKat))
- 
-####Post a ruby example of 5 Sharing Functionality: Inheritance, Modules, and Mixins:  ([Luke](https://github.com/LukeMartinez) & [Persa](https://github.com/pzula))
+      Chapter 5 Bryana and Tyler
+      
+      Chapter 6 Billy and Jonah
+      
+      Chapter 7 Romeeka and Persa
+      
+      Chapter 8 Luke and Adam
+      
+      Chapter 9 Nikhil and George
 
 ----------------------------
 The group list is:
