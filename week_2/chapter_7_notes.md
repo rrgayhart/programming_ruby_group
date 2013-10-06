@@ -16,6 +16,7 @@
 
 
 ###Tips and Tricks
+* A link to flashcards based on the chapter: <http://quizlet.com/_ginwc>
 * The Ruby operator =~ matches a string against a pattern
 	- It returns the character offset into the string where the match occurred
 	- /cat/ =~ "cat" will return 0
