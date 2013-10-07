@@ -17,15 +17,15 @@ This is a repository set up for the Gschool[1] reading group to discuss and code
 
 ####Official Chapter Assignments
 
-      Chapter 5 Bryana and Tyler
+      Chapter 10 Tyler and Romeeka
       
-      Chapter 6 Billy and Jonah
+      Chapter 11 George and Jonah
       
-      Chapter 7 Romeeka and Persa
+      Chapter 12 Nikhil and Persa
       
-      Chapter 8 Luke and Adam
+      Chapter 13 Adam and Katrina
       
-      Chapter 9 Nikhil and George
+      Chapter 14 Billy, Bryana and Luke
 
 ----------------------------
 The group list is:
