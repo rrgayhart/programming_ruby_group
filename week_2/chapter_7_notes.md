@@ -35,6 +35,8 @@ str = "Dog and Cat"new_str = str.sub(/Cat/, "Gerbil")puts "Let's go to the #{
 
 * <http://rubular.com/> - is an excellent way to play with regex patters
 * <http://regexcrossword.com/> - a fun regex game shared by Katrina!
+* I highly recommend doing this interactive tutorial on Regex (although it is Python, it should not matter) <http://regex.learncodethehardway.org/book/>
+* This is also an awesome cheat sheet, responsive website so you can use it on mobile too! <http://overapi.com/regex/>
 
 
 
