@@ -13,10 +13,16 @@
 	- Unlike sub and gsub, sub! and gsub! return the string only if the pattern was matched. If no match for the pattern is found in the string, they return nil instead. This means it can make sense (depending on your need) to use the ! forms in conditions.
 	- Using gsub:
 
+```ruby
+str = "Dog and Cat"
+new_str = str.sub(/Cat/, "Gerbil")
+
+puts "Let's go to the #{new_str} for a pint."
+produces:
+Let's go to the Dog and Gerbil for a pint.
 ```
-str = "Dog and Cat"new_str = str.sub(/Cat/, "Gerbil")puts "Let's go to the #{new_str} for a pint."produces:Let's go to the Dog and Gerbil for a pint.
-```
-	
+
+	
 * <b>Digging Deeper</b>
 	- You can create regular expression objects by calling Regexp class's new method or by using %r{…} syntax
 * <b>Advanced Regular Expressions</b>
