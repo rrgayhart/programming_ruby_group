@@ -17,13 +17,13 @@
 ###Assertions == Expected Results
 * Each assertion gives you a way of specifying a desired result or outcome and a way of passing in the actual outcome.
 * If the actual doesn’t equal the expected, the assertion outputs a nice message and records the fact as a failure.
-* For every positive assertion, such as assert_equal, there’s a negative refutation (in this case refute_equal).
+* For every positive assertion, such as ```assert_equal```, there’s a negative refutation (in this case refute_equal).
 
 ##Structuring Tests
-* you gotta use '''require 'minitest/unit' /'''
+* you gotta use ```require 'minitest/unit'```
 * Within the test case, organize assertions into a number of test methods, where each method contains the assertions for one type of test; one method could check regular number conversions, another could test error handling, etc
 * usually, with each test you will want to...
-  ##### create a new instance ... set up a database ... disconnect a database
+  create a new instance ... set up a database ... disconnect a database
   ... this can all be done in test setup 
 
 ###Organizing and Running Tests
