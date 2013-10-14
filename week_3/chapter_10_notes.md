@@ -57,8 +57,7 @@ end
 
 
 ###Questions
-* Stub
-* 
+* None!
 
 Chapter 10: Exceptions, catch and throw
 
