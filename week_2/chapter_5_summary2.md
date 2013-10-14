@@ -1,4 +1,3 @@
-
 **Inheritance and mixins both allow you to write code in one place and effectively inject that code into multiple classes.**
 
 
